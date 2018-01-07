@@ -13,5 +13,15 @@
 
 **Link to work:**
 
-
 ---
+
+### Day 1: January 7, 2018
+
+**Today's Progress**: 
+- Continued with FreeCodeCamp's Basic Javascript course 
+
+**Thoughts:** 
+
+> I still prefer Python's if/else statements. But already gotten used to ending statements with semi-colon. Took some time on those exercises in between topics that requires some additional code work.
+
+**Link to work:**
