@@ -25,3 +25,16 @@
 > I still prefer Python's if/else statements. But already gotten used to ending statements with semi-colon. Took some time on those exercises in between topics that requires some additional code work.
 
 **Link to work:**
+
+---
+
+### Day 2: January 8, 2018
+
+**Today's Progress**: 
+- Completed FreeCodeCamp's Basic Javascript course 
+
+**Thoughts:** 
+
+> Had trouble completing "Profile Lookup" exercise
+
+**Link to work:**
