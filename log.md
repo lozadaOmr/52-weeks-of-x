@@ -38,3 +38,24 @@
 > Had trouble completing "Profile Lookup" exercise
 
 **Link to work:**
+
+---
+
+### Day 3: January 9, 2018
+
+**Today's Progress**: 
+- Moved to Object Oriented and Functional Programming course (JavaScript) 
+
+**Thoughts:** 
+
+> Got confused at first on how `array.map();` and `array.reduce();` works
+> Probably due to not having previous knowledge of functional programming
+```
+finalVal = array.reduce(function(previousNum, currentNum) {
+  return previousNum + currentNum;
+}, 0);
+```
+
+**Link to work:**
+
+---
