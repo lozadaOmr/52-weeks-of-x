@@ -59,3 +59,14 @@ finalVal = array.reduce(function(previousNum, currentNum) {
 **Link to work:**
 
 ---
+
+### Day 4: January 10, 2018
+
+**Today's Progress**: 
+- Completed FreeCodeCamp's Object Oriented and Functional Programming course
+
+**Thoughts:** 
+
+**Link to work:**
+
+---
