@@ -70,3 +70,14 @@ finalVal = array.reduce(function(previousNum, currentNum) {
 **Link to work:**
 
 ---
+
+### Day 5: January 11, 2018
+
+**Today's Progress**: 
+- Started FreeCodeCamp's Basic Algorithm Scripting course
+
+**Thoughts:** 
+
+**Link to work:**
+
+---
