@@ -81,3 +81,16 @@ finalVal = array.reduce(function(previousNum, currentNum) {
 **Link to work:**
 
 ---
+
+### Day 6: January 12, 2018
+
+**Today's Progress**: 
+- Continued FreeCodeCamp's Basic Algorithm Scripting course
+
+**Thoughts:** 
+> Algorithm challenges serves reinforcing and drilling down on basic JavaScript.
+> Thinking of revisiting and improving the code once I finished the challenge.
+
+**Link to work:**
+
+---
