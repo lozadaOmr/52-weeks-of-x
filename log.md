@@ -94,3 +94,20 @@ finalVal = array.reduce(function(previousNum, currentNum) {
 **Link to work:**
 
 ---
+
+### Day 7: January 13, 2018
+
+**Today's Progress**: 
+- Continued FreeCodeCamp's Basic Algorithm Scripting course
+
+**Thoughts:** 
+> Got stuck for awhile not noticing that I had typo error on my code. Was pretty sure that when I tried it out on chrome console it was working, and was unsure why it wasn't when running the test on FCC.
+
+```
+var str.lenght;
+> undefined
+```
+
+**Link to work:**
+
+---
