@@ -111,3 +111,16 @@ var str.lenght;
 **Link to work:**
 
 ---
+
+### Day 8: January 14, 2018
+
+**Today's Progress**: 
+- Continued FreeCodeCamp's Basic Algorithm Scripting course
+- With focus on Array exercises
+
+**Thoughts:** 
+> Enjoyed working on Chunky Monkey challenge. Maximized testing code using Chrome dev tool console.
+
+**Link to work:**
+
+---
