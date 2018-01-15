@@ -132,15 +132,16 @@ var str.lenght;
 - With more focus on Array exercises
 
 **Thoughts:** 
-> Took a long time to complete "Seek and Destroy".
-> Can't help but still think in Python where `destroyer([1, 2, 3, 1, 2, 3], 2, 3);` 
-> and `function destroyer(arr) {};`
-> to which in Python you would simply just `def destroyer(arr, *args):`
-> 
-> To look at the documentation and read.
->
-> Also noticed I tend to 'misuse'? `Array.prototype.filter()` always
-> thought of it as a pseudo for loop.
+
+Took a long time to complete "Seek and Destroy".
+
+Can't help but still think in Python where `destroyer([1, 2, 3, 1, 2, 3], 2, 3);` 
+and `function destroyer(arr) {};` to which in Python you would simply just `def destroyer(arr, *args):`
+ 
+Had to really take a look at the documentation and read.
+
+Also noticed I tend to 'misuse'? `Array.prototype.filter()` always
+thought of it as a pseudo for loop.
 
 **Link to work:**
 
