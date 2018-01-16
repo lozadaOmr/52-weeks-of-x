@@ -9,7 +9,7 @@
 
 **Thoughts:** 
 
-> As much as I want to get started doing advanced stuff. Might be good idea and get my hands dirty working with the basics. And oh, hello semi-colon my old friend.
+As much as I want to get started doing advanced stuff. Might be good idea and get my hands dirty working with the basics. And oh, hello semi-colon my old friend.
 
 **Link to work:**
 
@@ -22,7 +22,7 @@
 
 **Thoughts:** 
 
-> I still prefer Python's if/else statements. But already gotten used to ending statements with semi-colon. Took some time on those exercises in between topics that requires some additional code work.
+I still prefer Python's if/else statements. But already gotten used to ending statements with semi-colon. Took some time on those exercises in between topics that requires some additional code work.
 
 **Link to work:**
 
@@ -35,7 +35,7 @@
 
 **Thoughts:** 
 
-> Had trouble completing "Profile Lookup" exercise
+Had trouble completing "Profile Lookup" exercise
 
 **Link to work:**
 
@@ -48,8 +48,9 @@
 
 **Thoughts:** 
 
-> Got confused at first on how `array.map();` and `array.reduce();` works
-> Probably due to not having previous knowledge of functional programming
+Got confused at first on how `array.map();` and `array.reduce();` works
+Probably due to not having previous knowledge of functional programming
+
 ```
 finalVal = array.reduce(function(previousNum, currentNum) {
   return previousNum + currentNum;
@@ -88,8 +89,9 @@ finalVal = array.reduce(function(previousNum, currentNum) {
 - Continued FreeCodeCamp's Basic Algorithm Scripting course
 
 **Thoughts:** 
-> Algorithm challenges serves reinforcing and drilling down on basic JavaScript.
-> Thinking of revisiting and improving the code once I finished the challenge.
+
+Algorithm challenges serves reinforcing and drilling down on basic JavaScript.
+Thinking of revisiting and improving the code once I finished the challenge.
 
 **Link to work:**
 
@@ -101,7 +103,8 @@ finalVal = array.reduce(function(previousNum, currentNum) {
 - Continued FreeCodeCamp's Basic Algorithm Scripting course
 
 **Thoughts:** 
-> Got stuck for awhile not noticing that I had typo error on my code. Was pretty sure that when I tried it out on chrome console it was working, and was unsure why it wasn't when running the test on FCC.
+
+Got stuck for awhile not noticing that I had typo error on my code. Was pretty sure that when I tried it out on chrome console it was working, and was unsure why it wasn't when running the test on FCC.
 
 ```
 var str.lenght;
@@ -118,8 +121,9 @@ var str.lenght;
 - Continued FreeCodeCamp's Basic Algorithm Scripting course
 - With focus on Array exercises
 
-**Thoughts:** 
-> Enjoyed working on Chunky Monkey challenge. Maximized testing code using Chrome dev tool console.
+**Thoughts:**
+
+Enjoyed working on Chunky Monkey challenge. Maximized testing code using Chrome dev tool console.
 
 **Link to work:**
 
@@ -142,6 +146,17 @@ Had to really take a look at the documentation and read.
 
 Also noticed I tend to 'misuse'? `Array.prototype.filter()` always
 thought of it as a pseudo for loop.
+
+**Link to work:**
+
+---
+
+### Day 10: January 16, 2018
+
+**Today's Progress**: 
+- Completed FreeCodeCamp's Basic Algorithm Scripting course
+
+**Thoughts:** 
 
 **Link to work:**
 
