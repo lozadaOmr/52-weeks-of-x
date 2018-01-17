@@ -161,3 +161,13 @@ thought of it as a pseudo for loop.
 **Link to work:**
 
 ---
+
+### Day 11: January 17, 2018
+
+**Today's Progress**: 
+- Started with FreeCodeCamp's Intermediate Algorithm Scripting course
+
+**Thoughts:** 
+It is much challenging than the usual exercises.
+
+**Link to work:**
