@@ -171,3 +171,16 @@ thought of it as a pseudo for loop.
 It is much challenging than the usual exercises.
 
 **Link to work:**
+
+---
+
+### Day 12: January 18, 2018
+
+**Today's Progress**: 
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+
+**Thoughts:** 
+Roman Numeral Converter is really challenging.
+Putting the 'how-you-know' into code.
+
+**Link to work:**
