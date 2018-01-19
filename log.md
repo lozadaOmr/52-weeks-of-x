@@ -168,6 +168,7 @@ thought of it as a pseudo for loop.
 - Started with FreeCodeCamp's Intermediate Algorithm Scripting course
 
 **Thoughts:** 
+
 It is much challenging than the usual exercises.
 
 **Link to work:**
@@ -180,7 +181,24 @@ It is much challenging than the usual exercises.
 - Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
 
 **Thoughts:** 
+
 Roman Numeral Converter is really challenging.
 Putting the 'how-you-know' into code.
+
+**Link to work:**
+
+---
+
+### Day 13: January 19, 2018
+
+**Today's Progress**: 
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Completed Roman Numeral Converter 
+
+**Thoughts:**
+
+Gone through several solutions that 'might work. Actually read the relevant links provided (esp. Roman Numerals).
+It could be wrong, but I read and also tried to figure out why the hints are there as there could different ways to solve the problem.
+
 
 **Link to work:**
