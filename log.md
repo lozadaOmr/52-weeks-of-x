@@ -202,3 +202,18 @@ It could be wrong, but I read and also tried to figure out why the hints are the
 
 
 **Link to work:**
+
+---
+
+### Day 14: January 20, 2018
+
+**Today's Progress**: 
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Got stuck on Wherefore art thou 
+
+**Thoughts:**
+
+Intermediate Algorithm Scripting challenges are getting harder as I progress.
+
+
+**Link to work:**
