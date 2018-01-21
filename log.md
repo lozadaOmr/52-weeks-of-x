@@ -217,3 +217,23 @@ Intermediate Algorithm Scripting challenges are getting harder as I progress.
 
 
 **Link to work:**
+
+---
+
+### Day 15: January 21, 2018
+
+**Today's Progress**: 
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Completed Wherefore art thou and Search and Replace
+- Reread the JavaScript basics
+
+**Thoughts:**
+
+Got stuck on Wherefore art thou, because I misunderstood the requirement.
+Quick glance on the expected result. I assumed immediately that is would be an array containing an object `[{a,b,b}]` which looked like flattened.
+
+After rereading carefully examining the inputs and the expected output, managed to come up with a less complicated solution.
+
+
+
+**Link to work:**
