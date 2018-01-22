@@ -234,6 +234,18 @@ Quick glance on the expected result. I assumed immediately that is would be an a
 
 After rereading carefully examining the inputs and the expected output, managed to come up with a less complicated solution.
 
+**Link to work:**
 
+---
+
+### Day 16: January 22, 2018
+
+**Today's Progress**: 
+
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Completed Pig Latin challenge
+- Started reading Chapter 4: Variables, Scope and Memory (Professional Javascript for Web Developers)
+
+**Thoughts:**
 
 **Link to work:**
