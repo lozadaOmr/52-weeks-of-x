@@ -249,3 +249,16 @@ After rereading carefully examining the inputs and the expected output, managed 
 **Thoughts:**
 
 **Link to work:**
+
+---
+
+### Day 17: January 23, 2018
+
+**Today's Progress**: 
+
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Completed DNA pairing and Missing Letters challenge
+
+**Thoughts:**
+
+**Link to work:**
