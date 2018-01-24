@@ -262,3 +262,16 @@ After rereading carefully examining the inputs and the expected output, managed 
 **Thoughts:**
 
 **Link to work:**
+
+---
+
+### Day 18: January 24, 2018
+
+**Today's Progress**: 
+
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Completed Boo Who challenge
+
+**Thoughts:**
+
+**Link to work:**
