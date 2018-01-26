@@ -288,3 +288,18 @@ After rereading carefully examining the inputs and the expected output, managed 
 **Thoughts:**
 
 **Link to work:**
+
+---
+
+### Day 20: January 26, 2018
+
+**Today's Progress**: 
+
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Completed Spinal Tap Case challenge
+
+**Thoughts:**
+
+Own solution was on point in using regex. Except couldn't figure out the last test case.
+
+**Link to work:**
