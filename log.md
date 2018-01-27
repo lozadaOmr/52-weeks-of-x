@@ -303,3 +303,18 @@ After rereading carefully examining the inputs and the expected output, managed 
 Own solution was on point in using regex. Except couldn't figure out the last test case.
 
 **Link to work:**
+
+---
+
+### Day 21: January 27, 2018
+
+**Today's Progress**: 
+
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Still working on Sum All Odd Fibonacci Numbers
+
+**Thoughts:**
+
+This one is a brain teaser for me.
+
+**Link to work:**
