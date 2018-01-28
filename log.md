@@ -318,3 +318,19 @@ Own solution was on point in using regex. Except couldn't figure out the last te
 This one is a brain teaser for me.
 
 **Link to work:**
+
+---
+
+### Day 22: January 28, 2018
+
+**Today's Progress**: 
+
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Completed working on Sum All Odd Fibonacci Numbers and Sum All Primes
+
+**Thoughts:**
+
+My solution for the fibonacci challenge in that I think passed, didn't exactly get the ideal solution.
+While in sum all primes, I really had to use sieve implementation of getting the prime numbers.
+
+**Link to work:**
