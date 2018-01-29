@@ -334,3 +334,19 @@ My solution for the fibonacci challenge in that I think passed, didn't exactly g
 While in sum all primes, I really had to use sieve implementation of getting the prime numbers.
 
 **Link to work:**
+
+---
+
+### Day 23: January 29, 2018
+
+**Today's Progress**: 
+
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Skipped on Smallest Common Multiple. Uhm, because it involves math
+- Completed Finders Keepers
+
+**Thoughts:**
+
+Thinking of redoing Finders Keepers.
+
+**Link to work:**
