@@ -364,3 +364,17 @@ Thinking of redoing Finders Keepers.
 **Thoughts:**
 
 **Link to work:**
+
+---
+
+### Day 25: January 31, 2018
+
+**Today's Progress**: 
+
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Completed Binary Agents
+- Learned that ES6 [supports binary literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Numbers_and_dates#Binary_numbers)
+
+**Thoughts:**
+
+**Link to work:**
