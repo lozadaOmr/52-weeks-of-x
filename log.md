@@ -378,3 +378,23 @@ Thinking of redoing Finders Keepers.
 **Thoughts:**
 
 **Link to work:**
+
+---
+
+### Day 26: February 1, 2018
+
+**Today's Progress**: 
+
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Completed Everything Be True
+
+**Thoughts:**
+
+Interesting to learn about using array.forEach()
+
+```
+array.forEach(function(arrayItem) {
+
+});
+```
+**Link to work:**
