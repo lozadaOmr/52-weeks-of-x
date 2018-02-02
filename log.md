@@ -398,3 +398,15 @@ array.forEach(function(arrayItem) {
 });
 ```
 **Link to work:**
+
+---
+
+### Day 27: February 2, 2018
+
+**Today's Progress**: 
+
+**Thoughts:**
+
+Not necessary #100DaysOfCode thinking of trying out [localstack](https://localstack.cloud).
+
+**Link to work:**
