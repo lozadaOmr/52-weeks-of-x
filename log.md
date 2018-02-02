@@ -403,10 +403,17 @@ array.forEach(function(arrayItem) {
 
 ### Day 27: February 2, 2018
 
-**Today's Progress**: 
+**Today's Progress**:
+
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Finally completed Smallest Common Multiple
 
 **Thoughts:**
 
 Not necessary #100DaysOfCode thinking of trying out [localstack](https://localstack.cloud).
+
+What really solve smallest common multiple, was moving away some code into functions.
+Also learn about using array.some()
+Solution is long, but it works.
 
 **Link to work:**
