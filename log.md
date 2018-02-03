@@ -417,3 +417,20 @@ Also learn about using array.some()
 Solution is long, but it works.
 
 **Link to work:**
+
+---
+
+### Day 28: February 3, 2018
+
+**Today's Progress**:
+
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Finally completed Streamroller
+- Also watch Javascript Clean Code videos by Beau Carnes
+
+**Thoughts:**
+
+Actual first time to implement recursion. Had to put in `console.log()`'s
+everywhere just to have a look at what exactly is happening inside the function.
+
+**Link to work:**
