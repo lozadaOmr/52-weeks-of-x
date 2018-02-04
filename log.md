@@ -434,3 +434,19 @@ Actual first time to implement recursion. Had to put in `console.log()`'s
 everywhere just to have a look at what exactly is happening inside the function.
 
 **Link to work:**
+
+---
+
+### Day 29: February 4, 2018
+
+**Today's Progress**:
+
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Still figuring out Arguments Optional
+- Also I think I found a bug!
+
+**Thoughts:**
+
+**Link to work:**
+
+- [Arguments Optional Issue](https://github.com/freeCodeCamp/freeCodeCamp/issues/16637)
