@@ -450,3 +450,20 @@ everywhere just to have a look at what exactly is happening inside the function.
 **Link to work:**
 
 - [Arguments Optional Issue](https://github.com/freeCodeCamp/freeCodeCamp/issues/16637)
+
+---
+
+### Day 30: February 5, 2018
+
+**Today's Progress**:
+
+- Continued with FreeCodeCamp's Intermediate Algorithm Scripting course
+- Stuck figuring out Arguments Optional
+
+**Thoughts:**
+
+Not entirely sure what this requirement means:
+
+> then return a function that expects one argument and returns the sum.
+
+**Link to work:**
