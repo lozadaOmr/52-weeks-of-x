@@ -467,3 +467,20 @@ Not entirely sure what this requirement means:
 > then return a function that expects one argument and returns the sum.
 
 **Link to work:**
+
+---
+
+### Day 31: February 6, 2018
+
+**Today's Progress**:
+
+- Completed FreeCodeCamp's Intermediate Algorithm Scripting course
+- Finished out Arguments Optional
+
+**Thoughts:**
+Yup wouldn't be possible for me to complete this last one. Without knowing about JavaScript closures.
+Thanks [@IvaErceg](https://github.com/ivaerceg) for the [hint](https://www.youtube.com/watch?v=hRJrp17WnOE)!
+
+Think that's enough algorithm challenge for now.
+
+**Link to work:**
