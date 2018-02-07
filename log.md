@@ -484,3 +484,17 @@ Thanks [@IvaErceg](https://github.com/ivaerceg) for the [hint](https://www.youtu
 Think that's enough algorithm challenge for now.
 
 **Link to work:**
+
+---
+
+### Day 32: February 7, 2018
+
+**Today's Progress**:
+
+- Trying to figure out where I can start development for FreeCodeCamp's Node.js and Express.js
+- Setting up using Docker
+
+**Thoughts:**
+- Looks like AWS Cloud9 is not an option for me. Also thinking of trying out Codeanywhere
+
+**Link to work:**
