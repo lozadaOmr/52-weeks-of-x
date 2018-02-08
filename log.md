@@ -498,3 +498,15 @@ Think that's enough algorithm challenge for now.
 - Looks like AWS Cloud9 is not an option for me. Also thinking of trying out Codeanywhere
 
 **Link to work:**
+
+---
+
+### Day 33: February 8, 2018
+
+**Today's Progress**:
+
+- Finish setting up Docker + Node
+
+**Thoughts:**
+
+**Link to work:**
