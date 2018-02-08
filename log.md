@@ -506,6 +506,7 @@ Think that's enough algorithm challenge for now.
 **Today's Progress**:
 
 - Finish setting up Docker + Node
+- Finished a Codewars Kata
 
 **Thoughts:**
 
