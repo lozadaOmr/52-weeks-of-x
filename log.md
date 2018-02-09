@@ -511,3 +511,21 @@ Think that's enough algorithm challenge for now.
 **Thoughts:**
 
 **Link to work:**
+
+
+---
+
+### Day 34: February 9, 2018
+
+**Today's Progress**:
+
+- Completed `how-to-npm`
+
+**Thoughts:**
+
+Good thing to be working with Node inside Docker.
+Was just following along the tutorial, came along updating npm and the next thing I know is npm no longer works.
+Needed to build again the container using the latest stable version node.
+
+
+**Link to work:**
