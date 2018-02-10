@@ -512,7 +512,6 @@ Think that's enough algorithm challenge for now.
 
 **Link to work:**
 
-
 ---
 
 ### Day 34: February 9, 2018
@@ -526,6 +525,22 @@ Think that's enough algorithm challenge for now.
 Good thing to be working with Node inside Docker.
 Was just following along the tutorial, came along updating npm and the next thing I know is npm no longer works.
 Needed to build again the container using the latest stable version node.
+
+
+**Link to work:**
+
+---
+
+### Day 35: February 10, 2018
+
+**Today's Progress**:
+
+- Started `learntonode`
+- Started also reading source code from other node projects
+
+**Thoughts:**
+
+New concept that I needed to review is [callbacks](https://github.com/maxogden/art-of-node#callbacks)
 
 
 **Link to work:**
