@@ -544,3 +544,18 @@ New concept that I needed to review is [callbacks](https://github.com/maxogden/a
 
 
 **Link to work:**
+
+---
+
+### Day 36: February 11, 2018
+
+**Today's Progress**:
+
+- Read [JavaScript Garden](http://shamansir.github.io/JavaScript-Garden/)
+
+**Thoughts:**
+
+Lot's of things happenening. So no actual coding for awhile.
+
+
+**Link to work:**
