@@ -559,3 +559,18 @@ Lot's of things happenening. So no actual coding for awhile.
 
 
 **Link to work:**
+
+---
+
+### Day 37: February 12, 2018
+
+**Today's Progress**:
+
+- Continue working on `learnyounode` "Make it Modular" 
+
+**Thoughts:**
+
+Need to spend extra time to understand JavaScript's callback.
+
+
+**Link to work:**
