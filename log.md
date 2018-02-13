@@ -574,3 +574,19 @@ Need to spend extra time to understand JavaScript's callback.
 
 
 **Link to work:**
+
+
+---
+
+### Day 38: February 13, 2018
+
+**Today's Progress**:
+
+- Still doens't understand `learnyounode` "Make it Modular" 
+
+**Thoughts:**
+
+Handholding is gone. Going to be stuck here for awhile.
+
+
+**Link to work:**
