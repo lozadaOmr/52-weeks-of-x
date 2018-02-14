@@ -575,7 +575,6 @@ Need to spend extra time to understand JavaScript's callback.
 
 **Link to work:**
 
-
 ---
 
 ### Day 38: February 13, 2018
@@ -587,6 +586,20 @@ Need to spend extra time to understand JavaScript's callback.
 **Thoughts:**
 
 Handholding is gone. Going to be stuck here for awhile.
+
+
+**Link to work:**
+
+---
+
+### Day 39: February 14, 2018
+
+**Today's Progress**:
+
+- Since being stuck in `learnyounode` "Make it Modular" with no progress
+- Decided to watch some YouTube videos by [Node.js Tutorials by The Net Ninja](https://youtu.be/w-7RQ46RgxU)
+
+**Thoughts:**
 
 
 **Link to work:**
