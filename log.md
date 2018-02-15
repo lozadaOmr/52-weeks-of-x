@@ -603,3 +603,16 @@ Handholding is gone. Going to be stuck here for awhile.
 
 
 **Link to work:**
+
+---
+
+### Day 40: February 15, 2018
+
+**Today's Progress**:
+
+- Continue watching [Node.js Tutorials by The Net Ninja](https://youtu.be/w-7RQ46RgxU)
+
+**Thoughts:**
+
+
+**Link to work:**
