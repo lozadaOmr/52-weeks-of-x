@@ -630,3 +630,17 @@ Handholding is gone. Going to be stuck here for awhile.
 Some questions about modules started to make sense after watching episodes 6,7
 
 **Link to work:**
+
+---
+
+### Day 42: February 17, 2018
+
+**Today's Progress**:
+
+- Rewatched episodes 1-7 of [Node.js Tutorials by The Net Ninja](https://youtu.be/w-7RQ46RgxU)
+
+**Thoughts:**
+
+Too distracted today.
+
+**Link to work:**
