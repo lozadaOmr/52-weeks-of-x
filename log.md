@@ -644,3 +644,24 @@ Some questions about modules started to make sense after watching episodes 6,7
 Too distracted today.
 
 **Link to work:**
+
+---
+
+### Day 43: February 18, 2018
+
+**Today's Progress**:
+
+- Finally completed `learnyounode`'s "Make it Modular" 
+- Progressed to The Net Ninja's Node tutorial (#8-11)
+
+**Thoughts:**
+
+Just spent entire one hour watching YouTube videos about JavaScript Callbacks,
+One video was a walkthrough for exercise #6.
+
+Just tried it out in code. At first I couldn't get it to work, but the good thing is I understand now how to use it.
+And eventually figured it out.
+
+That 'ahah' moment is priceless
+
+**Link to work:**
