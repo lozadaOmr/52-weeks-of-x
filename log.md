@@ -665,3 +665,15 @@ And eventually figured it out.
 That 'ahah' moment is priceless
 
 **Link to work:**
+
+---
+
+### Day 44: February 19, 2018
+
+**Today's Progress**:
+
+- Completed `leaernyounode`'s "HTTP Client", started working on "HTTP Collect"
+
+**Thoughts:**
+
+**Link to work:**
