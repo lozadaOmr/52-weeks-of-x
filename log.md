@@ -677,3 +677,15 @@ That 'ahah' moment is priceless
 **Thoughts:**
 
 **Link to work:**
+
+---
+
+### Day 45: February 20, 2018
+
+**Today's Progress**:
+
+- Completed `leaernyounode`'s "HTTP Collect", started working on "Juggling Async"
+
+**Thoughts:**
+
+**Link to work:**
