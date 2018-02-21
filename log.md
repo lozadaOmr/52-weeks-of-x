@@ -689,3 +689,17 @@ That 'ahah' moment is priceless
 **Thoughts:**
 
 **Link to work:**
+
+---
+
+### Day 46: February 21, 2018
+
+**Today's Progress**:
+
+- Continued working on "Juggling Async"
+- More reading node HTTP API docs
+- Rewatched [Node Event Emitter](https://www.youtube.com/watch?v=NtrnaTKqFPQ) tutorial
+
+**Thoughts:**
+
+**Link to work:**
