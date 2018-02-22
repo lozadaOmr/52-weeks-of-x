@@ -703,3 +703,16 @@ That 'ahah' moment is priceless
 **Thoughts:**
 
 **Link to work:**
+
+---
+
+### Day 47: February 22, 2018
+
+**Today's Progress**:
+
+- Skipped working on "Juggling Async"
+- Continued with The Net Ninja's Node.js tutorials
+
+**Thoughts:**
+
+**Link to work:**
