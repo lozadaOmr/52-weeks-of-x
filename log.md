@@ -716,3 +716,15 @@ That 'ahah' moment is priceless
 **Thoughts:**
 
 **Link to work:**
+
+---
+
+### Day 48: February 23, 2018
+
+**Today's Progress**:
+
+- Not much productive learning today. Just reading JavaScript articles
+
+**Thoughts:**
+
+**Link to work:**
