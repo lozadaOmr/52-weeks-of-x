@@ -728,3 +728,13 @@ That 'ahah' moment is priceless
 **Thoughts:**
 
 **Link to work:**
+
+---
+
+### Day 49: February 24, 2018
+
+**Today's Progress**:
+
+- Watched few episodes (12-13) of The Net Ninja's Beginner Node.js tutorial
+
+**Thoughts:**
