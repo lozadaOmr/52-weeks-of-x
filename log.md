@@ -738,3 +738,15 @@ That 'ahah' moment is priceless
 - Watched few episodes (12-13) of The Net Ninja's Beginner Node.js tutorial
 
 **Thoughts:**
+
+---
+
+### Day 50: February 25, 2018
+
+**Today's Progress**:
+
+- Continued The Net Ninja Node.js tutorials (ep 14-16) 
+- Readable and Writable streams.
+- pipe readable stream to a writable stream.
+
+**Thoughts:**
