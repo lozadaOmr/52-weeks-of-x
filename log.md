@@ -750,3 +750,13 @@ That 'ahah' moment is priceless
 - pipe readable stream to a writable stream.
 
 **Thoughts:**
+
+---
+
+### Day 51: February 26, 2018
+
+**Today's Progress**:
+
+- Revisited learnyounode's Juggling Async
+
+**Thoughts:**
