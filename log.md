@@ -760,3 +760,13 @@ That 'ahah' moment is priceless
 - Revisited learnyounode's Juggling Async
 
 **Thoughts:**
+
+---
+
+### Day 52: February 27, 2018
+
+**Today's Progress**:
+
+- not much progress with learnyounode
+
+**Thoughts:**
