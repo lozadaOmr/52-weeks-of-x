@@ -770,3 +770,15 @@ That 'ahah' moment is priceless
 - not much progress with learnyounode
 
 **Thoughts:**
+
+---
+
+### Day 53: February 28, 2018
+
+**Today's Progress**:
+
+- Continue The Net Ninja's Node.js tutorial
+- serving HTML and JSON
+- basic routing
+
+**Thoughts:**
