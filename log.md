@@ -782,3 +782,15 @@ That 'ahah' moment is priceless
 - basic routing
 
 **Thoughts:**
+
+---
+
+### Day 54: March 1, 2018
+
+**Today's Progress**:
+
+- Continue The Net Ninja's Node.js tutorial
+- learned about npm
+- introduction to express.js module
+
+**Thoughts:**
