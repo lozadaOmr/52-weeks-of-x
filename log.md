@@ -794,3 +794,15 @@ That 'ahah' moment is priceless
 - introduction to express.js module
 
 **Thoughts:**
+
+---
+
+### Day 55: March 2, 2018
+
+**Today's Progress**:
+
+- Read more about express.js
+
+**Thoughts:**
+
+- Node.js now starts to feel like a more bare than Flask
