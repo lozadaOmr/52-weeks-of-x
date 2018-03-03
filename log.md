@@ -806,3 +806,15 @@ That 'ahah' moment is priceless
 **Thoughts:**
 
 - Node.js now starts to feel like a more bare than Flask
+
+---
+
+### Day 56: March 3, 2018
+
+**Today's Progress**:
+
+- continue playing with Node async
+
+**Thoughts:**
+
+- Still trying to wrap my head around async
