@@ -818,3 +818,19 @@ That 'ahah' moment is priceless
 **Thoughts:**
 
 - Still trying to wrap my head around async
+
+---
+
+### Day 57: March 4, 2018
+
+**Today's Progress**:
+
+- Node.js templating
+
+---
+
+### Day 58: March 5, 2018
+
+**Today's Progress**:
+
+- additional Node.js templating
